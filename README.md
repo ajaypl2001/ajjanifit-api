@@ -1,2 +1,1 @@
-# ajjanifit-api
-A multi-tenant Gym Management System API built with Laravel, allowing multiple gyms to manage their members, trainers, memberships, attendance, workouts, diet plans, and business operations from a single platform.
+AjjaniFit is a cloud-based multi-tenant Gym Management System built with Laravel. It enables multiple gym owners to register and manage their gyms independently. Each gym has its own branches, members, trainers, membership plans, attendance, workout plans, diet plans, financial records, and reports while securely sharing the same application infrastructure.
